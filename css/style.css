@@ -20,7 +20,7 @@ a{text-decoration: none;}
 .top .wrap .info ul{}
 .top .wrap .info ul li{float: left; margin: 0 10px;}
 .top .wrap .info ul li:first-child{margin-left: 0;}
-.top .wrap .info ul li p{line-height: 40px; color:#fff; font-size: 14px; font-weight: 500; padding-left: 20px; background-size: auto 14px; background-repeat: no-repeat; background-position: 0 50%;}
+.top .wrap .info ul li p{line-height: 40px; color:#fff; font-size: 14px; font-weight: 500; padding-left: 20px; background-size: auto 14px; background-repeat: no-repeat; background-position: 0 50%; filter: brightness(0) invert(1);}
 
 .top .wrap .info ul li:first-child p{background-image: url(../img/phone.png);}
 .top .wrap .info ul li:last-child p{background-image: url(../img/email.png);}
@@ -29,7 +29,7 @@ a{text-decoration: none;}
 .top .wrap .sns ul{}
 .top .wrap .sns ul li{float: left; margin: 0 5px;}
 .top .wrap .sns ul li:last-child{margin-right: 0;}
-.top .wrap .sns ul li a{display: block; width: 16px;height: 16px; background-size: cover; background-position: 50% 50%;}
+.top .wrap .sns ul li a{display: block; width: 16px;height: 16px; background-size: cover; background-position: 50% 50%; filter: brightness(0) invert(1);}
 .top .wrap .sns ul li:nth-child(1) a{background-image: url(../img/youtube.png);}
 .top .wrap .sns ul li:nth-child(2) a{background-image: url(../img/pinterest.png);}
 .top .wrap .sns ul li:nth-child(3) a{background-image: url(../img/facebook.png);}
